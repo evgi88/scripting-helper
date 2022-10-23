@@ -1,0 +1,1 @@
+The purpose of this repository is to help people with writing scripts for both `bash` and `PowerShell`.
